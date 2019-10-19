@@ -1,0 +1,2 @@
+include ':app', ':screenadapterdemo'
+rootProject.name='ScreenAdaptation'
