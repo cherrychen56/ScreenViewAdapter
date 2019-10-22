@@ -4,9 +4,8 @@ import android.os.Build;
 import android.view.View;
 
 import java.lang.reflect.Field;
-
 /**
- * Created by zhy on 15/12/24.
+ * Created by cyy 2019.10.22
  */
 public class MinWidthAttr extends AutoAttr {
     public MinWidthAttr(int pxVal, int baseWidth, int baseHeight) {

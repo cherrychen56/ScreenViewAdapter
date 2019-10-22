@@ -6,6 +6,9 @@ import android.content.Context;
 import android.util.AttributeSet;
 import android.view.View;
 
+/**
+ * Created by cyy 2019.10.22
+ */
 public class BaseActivity extends Activity {
 
     @Override

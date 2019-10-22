@@ -3,7 +3,7 @@ package com.magic_chen_.screenadapter.utils;
 import android.util.Log;
 
 /**
- * Created by zhy on 15/11/18.
+ * Created by cyy 2019.10.22
  */
 public class L {
     public static boolean debug = true;

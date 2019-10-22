@@ -25,7 +25,9 @@ import android.widget.RelativeLayout;
 
 import com.magic_chen_.screenadapter.utils.AutoLayoutHelper;
 
-
+/**
+ * Created by cyy 2019.10.22
+ */
 public class AutoRelativeLayout extends RelativeLayout {
     private final AutoLayoutHelper mHelper = new AutoLayoutHelper(this);
 

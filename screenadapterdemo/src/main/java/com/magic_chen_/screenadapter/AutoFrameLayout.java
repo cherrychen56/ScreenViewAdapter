@@ -16,6 +16,9 @@
 
 package com.magic_chen_.screenadapter;
 
+/**
+ * Created by cyy 2019.10.22
+ */
 import android.annotation.TargetApi;
 import android.content.Context;
 import android.os.Build;

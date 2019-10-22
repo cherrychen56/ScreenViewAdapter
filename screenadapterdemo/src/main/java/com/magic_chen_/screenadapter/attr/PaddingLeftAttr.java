@@ -3,7 +3,7 @@ package com.magic_chen_.screenadapter.attr;
 import android.view.View;
 
 /**
- * Created by zhy on 15/12/5.
+ * Created by cyy 2019.10.22
  */
 public class PaddingLeftAttr extends AutoAttr {
     public PaddingLeftAttr(int pxVal, int baseWidth, int baseHeight) {

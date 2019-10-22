@@ -9,6 +9,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+/**
+ * Created by cyy 2019.10.22
+ */
 public class BaseApplication extends Application {
 
     public static BaseApplication sBaseApplication;

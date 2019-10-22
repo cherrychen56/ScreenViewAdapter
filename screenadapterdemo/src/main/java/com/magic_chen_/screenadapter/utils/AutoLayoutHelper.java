@@ -14,6 +14,10 @@
  * limitations under the License.
  */
 
+/**
+ * Created by cyy 2019.10.22
+ */
+
 package com.magic_chen_.screenadapter.utils;
 
 import android.content.Context;

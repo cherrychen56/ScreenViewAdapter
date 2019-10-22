@@ -8,7 +8,7 @@ import com.magic_chen_.screenadapter.utils.L;
 
 
 /**
- * Created by zhy on 15/12/4.
+ * Created by cyy 2019.10.22
  */
 public abstract class AutoAttr {
     public static final int BASE_WIDTH = 1;

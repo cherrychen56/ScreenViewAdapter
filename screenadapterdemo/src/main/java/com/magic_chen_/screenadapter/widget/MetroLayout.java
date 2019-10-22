@@ -18,9 +18,7 @@ import java.util.List;
 import java.util.Random;
 
 /**
- * Created by zhy on 15/12/10.
- * <p>
- * //do not use
+ * Created by cyy 2019.10.22
  */
 public class MetroLayout extends ViewGroup {
 

@@ -1,8 +1,7 @@
 package com.magic_chen_.screenadapter.config;
 
 /**
- * Created by zhy on 15/12/5.
- * 如果Activity设计稿是横屏，继承该接口即可
+ * Created by cyy 2019.10.22
  */
 public interface UseLandscape {
 }

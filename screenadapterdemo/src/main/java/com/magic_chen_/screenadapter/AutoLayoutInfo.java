@@ -25,7 +25,9 @@ import com.magic_chen_.screenadapter.attr.WidthAttr;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * Created by cyy 2019.10.22
+ */
 public class AutoLayoutInfo {
     private List<AutoAttr> autoAttrs = new ArrayList<>();
 

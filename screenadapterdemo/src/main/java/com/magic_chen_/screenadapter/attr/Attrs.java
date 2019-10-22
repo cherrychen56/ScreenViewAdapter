@@ -1,7 +1,7 @@
 package com.magic_chen_.screenadapter.attr;
 
 /**
- * Created by zhy on 15/12/5.
+ * Created by cyy 2019.10.22
  * <p/>
  * 与attrs.xml中数值对应
  */

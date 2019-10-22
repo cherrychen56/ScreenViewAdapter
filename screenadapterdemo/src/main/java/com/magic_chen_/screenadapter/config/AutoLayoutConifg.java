@@ -9,7 +9,7 @@ import com.magic_chen_.screenadapter.utils.ScreenUtils;
 
 
 /**
- * Created by zhy on 15/11/18.
+ * Created by cyy 2019.10.22
  */
 public class AutoLayoutConifg {
 

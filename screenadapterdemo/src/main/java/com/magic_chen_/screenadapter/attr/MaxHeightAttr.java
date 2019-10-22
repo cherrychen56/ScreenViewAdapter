@@ -5,7 +5,7 @@ import android.view.View;
 import java.lang.reflect.Method;
 
 /**
- * Created by zhy on 15/12/24.
+ * Created by cyy 2019.10.22
  */
 public class MaxHeightAttr extends AutoAttr {
     public MaxHeightAttr(int pxVal, int baseWidth, int baseHeight) {

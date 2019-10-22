@@ -11,7 +11,7 @@ import com.magic_chen_.screenadapter.utils.AutoLayoutHelper;
 
 
 /**
- * Created by zhy on 15/6/30.
+ * Created by cyy 2019.10.22
  */
 public class AutoLinearLayout extends LinearLayout {
 
