@@ -12,17 +12,17 @@ import android.widget.TextView;
 /**
  * Created by cyy 2019.10.22
  */
-public class BaseApplication extends Application {
+public class HJMBaseApplication extends Application {
 
-    public static BaseApplication sBaseApplication;
-    public static BaseApplication getGlobalContext() {
-        return  sBaseApplication;
+    public static HJMBaseApplication sHJMBaseApplication;
+    public static HJMBaseApplication getGlobalContext() {
+        return sHJMBaseApplication;
     }
 
     @Override
     public void onCreate() {
         super.onCreate();
-        sBaseApplication = this;
+        sHJMBaseApplication = this;
         initLayoutInflater();
     }
 

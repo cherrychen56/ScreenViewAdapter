@@ -9,7 +9,7 @@ import android.view.View;
 /**
  * Created by cyy 2019.10.22
  */
-public class BaseActivity extends Activity {
+public class HJMBaseActivity extends Activity {
 
     @Override
     protected void onPause() {
@@ -18,7 +18,7 @@ public class BaseActivity extends Activity {
     @Override
     public View onCreateView(String name, Context context, AttributeSet attrs) {
 
-        View view = BaseApplication.onMyCreateView(name, context, attrs);
+        View view = HJMBaseApplication.onMyCreateView(name, context, attrs);
         if (view != null) {
             return view;
         }
